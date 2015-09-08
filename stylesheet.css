@@ -12,11 +12,11 @@ a {
 }
 
 a:link, a:visited {
-
+	color: white;
 }
 
 a:hover, a:active {
-
+	color: white;
 }
 
 .body {
@@ -107,6 +107,10 @@ a:hover, a:active {
 	padding: 2% 3%;
 }
 
+.post-info {
+	font-size: 85%;
+}
+
 .middle-sidebar {
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -143,4 +147,5 @@ a:hover, a:active {
 .mainFooter p {
 	width: 92%;
 	margin: 2% auto;
+	color: White;
 }
