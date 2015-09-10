@@ -72,11 +72,14 @@ a:hover, a:active {
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
+	color:white;
+	font-size: 16px;
 }
 
 .content {
 	width: 70%;
 	float: left;
+	font-size: 16px;
 }
 
 .topcontent {
@@ -86,6 +89,8 @@ a:hover, a:active {
 	padding: 3% 5%;
 	margin-top: 2%;
 	background-color:#666;
+	color:white;
+	font-size: 16px;
 }
 
 .bottomcontent {
@@ -95,6 +100,8 @@ a:hover, a:active {
 	padding: 3% 5%;
 	margin-top: 2%;
 	background-color:#666;
+	color:white;
+	font-size: 16px;
 }
 
 .top-sidebar {
@@ -108,10 +115,13 @@ a:hover, a:active {
 	margin-bottom: 2%;
 	padding: 2% 3%;
 	background-color:#666;
+	color:white;
+	font-size: 16px;
 }
 
 .post-info {
 	font-size: 85%;
+	color:white;
 }
 
 .middle-sidebar {
@@ -124,6 +134,8 @@ a:hover, a:active {
 	margin-bottom: 2%;
 	padding: 2% 3%;
 	background-color:#666;
+	color:white;
+	font-size: 16px;
 }
 
 .bottom-sidebar {
@@ -136,6 +148,8 @@ a:hover, a:active {
 	margin-bottom: 2%;
 	padding: 2% 3%;
 	background-color:#666;
+	color:white;
+	font-size: 16px;
 }
 
 .mainFooter {
