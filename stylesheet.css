@@ -37,7 +37,6 @@ a:hover, a:active {
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	color: #530046;
 }
 
 .mainHeader nav ul {
@@ -60,6 +59,7 @@ a:hover, a:active {
 .mainHeader nav a:hover, .mainHeader nav a:active, .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
 	background-color: white;
 	text-shadow: none;
+	color: #530046;
 }
 
 .mainHeader nav ul li a {
