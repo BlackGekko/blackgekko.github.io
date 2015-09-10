@@ -47,6 +47,7 @@ a:hover, a:active {
 .mainHeader nav ul li {
 	float: left;
 	display: inline;
+	color: #530046;
 }
 
 .mainHeader nav a:link, .mainHeader nav a:visited {
@@ -57,7 +58,7 @@ a:hover, a:active {
 }
 
 .mainHeader nav a:hover, .mainHeader nav a:active, .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-	background-color: #530046;
+	background-color: white;
 	text-shadow: none;
 }
 
