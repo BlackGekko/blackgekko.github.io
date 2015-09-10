@@ -78,7 +78,7 @@ a:hover, a:active {
 }
 
 .content {
-	width: 70%;
+	width: 100%;
 	float: left;
 	font-size: 16px;
 }
@@ -104,55 +104,10 @@ a:hover, a:active {
 	color:white;
 	font-size: 16px;
 }
-
-.top-sidebar {
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	width: 21%;
-	float: left;
-	margin-top: 2%;
-	margin-left: 3%;
-	margin-bottom: 2%;
-	padding: 2% 3%;
-	background-color:#666;
-	color:white;
-	font-size: 16px;
-}
-
 .post-info {
 	font-size: 85%;
 	color:white;
 }
-
-.middle-sidebar {
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	width: 21%;
-	float: left;
-	margin-left: 3%;
-	margin-bottom: 2%;
-	padding: 2% 3%;
-	background-color:#666;
-	color:white;
-	font-size: 16px;
-}
-
-.bottom-sidebar {
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	width: 21%;
-	float: left;
-	margin-left: 3%;
-	margin-bottom: 2%;
-	padding: 2% 3%;
-	background-color:#666;
-	color:white;
-	font-size: 16px;
-}
-
 .mainFooter {
 	width: 100%;
 	float: left;
