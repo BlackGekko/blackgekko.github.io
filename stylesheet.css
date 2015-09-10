@@ -57,7 +57,7 @@ a:hover, a:active {
 }
 
 .mainHeader nav a:hover, .mainHeader nav a:active, .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-	background-color: blue;
+	background-color: #530046;
 	text-shadow: none;
 }
 
