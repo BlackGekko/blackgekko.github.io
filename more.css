@@ -93,17 +93,6 @@ a:hover, a:active {
 	color:white;
 	font-size: 16px;
 }
-
-.bottomcontent {
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	padding: 3% 5%;
-	margin-top: 2%;
-	background-color:#666;
-	color:white;
-	font-size: 16px;
-}
 .post-info {
 	font-size: 85%;
 	color:white;
@@ -123,6 +112,10 @@ a:hover, a:active {
 	width: 92%;
 	margin: 2% auto;
 	color: White;
+}
+
+.oldArticles {
+    text-decoration: none;
 }
 
 
