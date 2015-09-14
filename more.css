@@ -29,6 +29,7 @@ a:hover, a:active {
 	width: 100%;
 	height: auto;
 	margin: 2%, 0;
+    border-radius: 5px;
 }
 
 .mainHeader nav {
