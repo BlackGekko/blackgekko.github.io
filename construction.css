@@ -2,3 +2,9 @@
   text-align: center;
   color: #530046;
 }
+img {
+	width: 100%;
+	height: auto;
+	margin: 2%, 0;
+  border-radius: 5px;
+}
