@@ -1,5 +1,5 @@
 body {
-	background-color: #530046;
+	background-color: #24001d;
 	color: #000305;
 	font-size: 87.5%;
 	font-family: Arial;
@@ -157,11 +157,8 @@ a:hover, a:active {
 #vc-main {
     width: 70%;
 	float: left;
-	font-size: 16px;
-    
-    
+	font-size: 16px;  
 }
-
 .mainFooter {
 	width: 100%;
 	float: left;
