@@ -154,6 +154,14 @@ a:hover, a:active {
 	font-size: 16px;
 }
 
+#vc-main {
+    width: 70%;
+	float: left;
+	font-size: 16px;
+    
+    
+}
+
 .mainFooter {
 	width: 100%;
 	float: left;
